@@ -105,12 +105,13 @@ main{
 /* about section styles */
 .about{
     text-align: center;
-    margin-top: 130px;
     border-radius: 10px;
     background: #FFF8F3;
     padding: 130px 150px;
 }
-
+section{
+    margin-top: 130px;
+}
 .section-title{
     text-align: center;
     font-size: 35px;
@@ -151,9 +152,6 @@ main{
 }
 
 /* what i do styles */
-.what-i-do{
- margin-top: 130px;
-}
 
 .skills-container{
     display: flex;
